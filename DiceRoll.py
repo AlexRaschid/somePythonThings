@@ -1,7 +1,7 @@
 import random
 
 def rollDice():
-    return random.randint(0,6)
+    return random.randint(1,6)
 
 x = 0
 while (x != 6):
